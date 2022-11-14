@@ -1,0 +1,7 @@
+1 - Python 3.8 acima
+2 - python3 -m venv nome_ambiente - Criação do ambiente virtual
+3 - pip install Flask - Instação do Flask
+3 - pip install Flask-Restful - - Biblioteca da nossa API
+3 - pip install Flask-SQLAlchemy - biblioteca para usamos banco de dados
+4 - pip install mysql-connector - Biblioteca para conexação com o Mysql
+5 - pip install flask-jwt-extended - Biblioteca para Auth JWT
